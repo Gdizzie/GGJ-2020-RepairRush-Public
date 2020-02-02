@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &814903172979376023
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 814903172979376017}
+  - component: {fileID: 814903172979376022}
+  m_Layer: 0
+  m_Name: PlayerController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &814903172979376017
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 814903172979376023}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.3895562, y: 1.4335077, z: 13.789604}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &814903172979376022
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 814903172979376023}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e29ebc4706768248a28fb7bbde41c5a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_repairSpeed1: 0
+  m_repairSpeed2: 0
+  m_engineerObject: {fileID: 0}
+  m_engineerOffset1: {x: -1.58, y: 0.06, z: -1.56}
+  m_engineerRotation1: {x: 0.07, y: -1.08, z: 0.36, w: 1}
+  m_engineerOffset2: {x: 1.58, y: 0.06, z: -1.56}
+  m_engineerRotation2: {x: 0.07, y: 1.08, z: -0.36, w: 1}
+  m_canvas: {fileID: 0}
+  m_helpBubble1: {fileID: 0}
+  m_helpBubble2: {fileID: 0}
+  m_bubbleScaleSpeed: 5

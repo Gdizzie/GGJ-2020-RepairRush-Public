@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf00cd8bc1f70d54fb1c829a0ceb2af8, type: 3}
+  m_Name: DirtImpactClips
+  m_EditorClassIdentifier: 
+  m_AudioClips:
+  - {fileID: 8300000, guid: abbf05fb37164ca47b46306c0495a7c8, type: 3}
+  - {fileID: 8300000, guid: 62a27dc595d3a9e47bf5fa199e6d6930, type: 3}
+  - {fileID: 8300000, guid: 410bc95916f05fd45b819118d5edc2d7, type: 3}
+  - {fileID: 8300000, guid: 3bc0f835109b01f46a5c4b6235d7ab9b, type: 3}
+  m_MinVolume: 0.5
+  m_MaxVolume: 1
+  m_MinPitch: 0.9
+  m_MaxPitch: 1.1

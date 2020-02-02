@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\GZE\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\GZE\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Repair_Game_Project.-931167611.00" t="ExcludeRecursive" />
+    <e p="E:\Unity Projects 2020\GGJ-RoadChaseGame\2020-RepairChaseGame\Repair_Game_Project" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="CameraTest.cs" t="Include" />
+        <e p="ChildRigidbodyHandler.cs" t="Include" />
+        <e p="CollisionDetection.cs" t="Include" />
+        <e p="ColorSkies" t="Include">
+          <e p="Demo" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="LookCamera.cs" t="Include" />
+              <e p="SkyboxChanger.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="FlipCamera.cs" t="Include" />
+        <e p="Fonts" t="Include">
+          <e p="LICENSE.txt" t="Include" />
+        </e>
+        <e p="GameController.cs" t="Include" />
+        <e p="Lean" t="Include">
+          <e p="Common" t="Include">
+            <e p="Examples" t="Include">
+              <e p="Fonts" t="Include">
+                <e p="OFL.txt" t="Include" />
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="LeanCircuit.cs" t="Include" />
+                <e p="LeanDocumentation.cs" t="Include" />
+                <e p="LeanLinkTo.cs" t="Include" />
+              </e>
+              <e p="Shaders" t="Include">
+                <e p="Alpha.shader" t="Include" />
+                <e p="Object.shader" t="Include" />
+                <e p="Skybox.shader" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="LeanHelper.cs" t="Include" />
+              <e p="LeanInspector.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Pool" t="Include">
+            <e p="Examples" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="LeanPooledRigidbody.cs" t="Include" />
+                <e p="LeanPooledRigidbody2D.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="IPoolable.cs" t="Include" />
+              <e p="LeanClassPool.cs" t="Include" />
+              <e p="LeanGameObjectPool.cs" t="Include" />
+              <e p="LeanPool.cs" t="Include" />
+            </e>
+          </e>
+          <e p="READ ME.txt" t="Include" />
+        </e>
+        <e p="NPC.cs" t="Include" />
+        <e p="PlayerController.cs" t="Include" />
+        <e p="PolygonNature" t="Include">
+          <e p="Shaders" t="Include">
+            <e p="SyntyStudios_LOD.shader" t="Include" />
+            <e p="SyntyStudios_Moss.shader" t="Include" />
+            <e p="SyntyStudios_SkyGradient.shader" t="Include" />
+            <e p="SyntyStudios_Trees.shader" t="Include" />
+            <e p="SyntyStudios_Vines.shader" t="Include" />
+            <e p="SyntyStudios_Water.shader" t="Include" />
+            <e p="VS_indirect.cginc" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="AudioClips.cs" t="Include" />
+          <e p="AudioUtility.cs" t="Include" />
+          <e p="Bullet.cs" t="Include" />
+          <e p="CarSwitcher.cs" t="Include" />
+          <e p="DriftCamera.cs" t="Include" />
+          <e p="EasySuspension.cs" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="GraphOverlayEditor.cs" t="Include" />
+            <e p="PackageManagerAssembly" t="Include">
+              <e p="PackageImportList.txt" t="Include" />
+            </e>
+            <e p="VehicleSkeletonWizard.cs" t="Include" />
+          </e>
+          <e p="EventList.cs" t="Include" />
+          <e p="GameData.cs" t="Include" />
+          <e p="GraphOverlay.cs" t="Include" />
+          <e p="Obstacle.cs" t="Include" />
+          <e p="ObstacleSpawner.cs" t="Include" />
+          <e p="TriggerCollisionEventList.cs" t="Include" />
+          <e p="WheelDrive.cs" t="Include" />
+          <e p="WheelDriveCustom.cs" t="Include" />
+        </e>
+        <e p="TrackPiece.cs" t="Include" />
+        <e p="TrackSpawner.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Repair_Game_Project.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
